@@ -5,7 +5,6 @@ body {
 	background-color : #282828;
 	background-image: linear-gradient(#282828, black);
 	width: 100vw;
-	height: 100vh;
 
 	color : white;
 }
@@ -25,6 +24,10 @@ li {
 	margin-bottom: 5px;
 }
 
+img {
+	width = 500px
+}
+
 /* MAIN MENU*/
 .homemenu th{
 	font-size: x-large;
@@ -37,7 +40,7 @@ li {
 }
 
 .music{ color: #7dbf54;}
-.games{ color: #FFE4B5;}
+.programming{ color: #FFE4B5;}
 .videos{ color: #8866c4;}
 .objects{ color: white;}
 .pictures{ color: lightblue;}
