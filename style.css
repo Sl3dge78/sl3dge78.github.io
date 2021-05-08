@@ -3,8 +3,6 @@
 body {
 	font-family : sans-serif;
 	background-color : #282828;
-	background-image: linear-gradient(#282828, black);
-	width: 100vw;
 	color : white;
 }
 
